@@ -1,0 +1,15 @@
+.header{
+
+    display: flex;
+
+    padding: 0;
+  margin-left: 70px;
+  flex: 1;
+}
+
+.navv{
+flex:1;
+display: inline-block;
+    list-style: none;
+    
+}
