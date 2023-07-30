@@ -74,3 +74,9 @@ i.fas.fa-rocket {
   margin-left: 5px; 
 }
 
+
+.social-iconss{
+list-style: none;
+display: flex;
+
+}
