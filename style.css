@@ -1,15 +1,39 @@
-.header{
 
-    display: flex;
-
-    padding: 0;
-  margin-left: 70px;
-  flex: 1;
+.body{
+background-color: rgb(239, 243, 243);
 }
 
-.navv{
-flex:1;
-display: inline-block;
-    list-style: none;
-    
+.header {
+  display: flex;
+  
+ 
 }
+
+.signature {
+  margin-left: 20px;
+  margin-right: 200px;
+  
+
+ margin-top: 1px;
+ 
+  
+  
+}
+
+
+.navv {
+  margin-top: 50px;
+  list-style: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 1px;
+  font-size: larger;
+ 
+}
+
+.navv li {
+  display: inline; 
+  margin-right: 15px; 
+}
+
+
+
