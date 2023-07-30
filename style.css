@@ -35,5 +35,42 @@ background-color: rgb(239, 243, 243);
   margin-right: 15px; 
 }
 
+.margintop{
 
+  margin-top: 50px;
+}
+
+
+.box{
+  margin-left: 50px;
+}
+.mini-box{
+
+display: flex;
+
+}
+.text1{
+
+  font-weight: lighter;
+  font-style: initial;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.con-2{
+
+  width: 500px;
+}
+
+.para{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(104, 104, 105);
+  font-weight: bolder;
+ text-align: justify;
+}
+
+i.fas.fa-rocket {
+  font-size: 24px; 
+  color: #965010; 
+  margin-left: 5px; 
+}
 
