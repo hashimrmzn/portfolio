@@ -176,3 +176,59 @@ margin-left: 20px;
 
   margin-left: 35px;
 }
+
+.cont-2{
+
+  display: flex;
+}
+
+.mini-sec{
+
+  margin-left: 70px;
+  width: 550px;
+}
+
+
+
+
+.icon-container {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: center; 
+  height: 20px; 
+  padding: 10px; 
+}
+
+
+.icon-container i {
+  font-size: 30px; 
+  color: white; 
+  border-radius: 70%; 
+  background-color: rgb(141, 145, 143);
+}
+
+
+
+.icon-containers {
+  display: flex; 
+ margin-left: 120px;
+  align-items: center; 
+   
+  height: 20px; 
+  margin-top: 20px;
+   
+}
+
+
+
+
+.icon-containers i {
+  margin-left: 30px;
+  font-size: 30px; 
+  color: white; 
+  border-radius: 190%; 
+  padding-right: 10px;
+  background-color: rgb(141, 145, 143); 
+}
+
+
