@@ -237,7 +237,8 @@ margin-left: 20px;
 
 .proficiency
 {
-
+  margin-top: 150px;
+display: flex;
   margin-left: 30px;
 }
 
@@ -292,3 +293,43 @@ border-left: 10px;
   border-radius: 10px;
   background-color: #6f7ed4;
 }
+
+
+.open-source{
+margin-top: 100px;
+margin-left: 30px;
+
+}
+
+.box1{
+ width: 500px;
+ background-color: rgb(248, 248, 248);
+  margin-top: 50px;
+  
+  padding: 10px;
+  box-shadow: 5px 5px 8px rgb(184, 181, 181);
+  margin: 20px;
+}
+
+/* Add CSS styles for the paragraph */
+.paragraph {
+  font-size: 18px; /* Adjust the font size as needed */
+  color: #333; /* Set the text color */
+}
+
+/* Add CSS styles for the hand icon */
+.paragraph i {
+  color: #FFD700; /* Set the color of the hand icon to yellow */
+  margin-right: 5px; 
+}
+
+
+.kb{
+  display: flex;
+}
+
+.two-boxes{
+  display: flex;
+}
+
+
