@@ -41,7 +41,7 @@ background-color: rgb(239, 243, 243);
 }
 
 
-.box{
+.boxx{
   margin-left: 50px;
   display: flex;
 }
@@ -57,7 +57,7 @@ display: flex;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.con-2{
+.con-2a{
 
   width: 500px;
 }
@@ -177,7 +177,7 @@ margin-left: 20px;
   margin-left: 35px;
 }
 
-.cont-2{
+.cont-2b{
 
   display: flex;
 }
@@ -253,7 +253,7 @@ border-left: 10px;
 
 }
 
-.cont2{
+.cont2c{
   width: 400px;
   border-radius: 10px;
   background-color: #6f7ed4;
@@ -330,6 +330,25 @@ margin-left: 30px;
 
 .two-boxes{
   display: flex;
+}
+
+
+.box-a{
+  box-shadow: 5px 5px 8px rgb(184, 181, 181);
+ width: 350px;
+  margin-left: 30px;
+  align-items: center;
+}
+
+
+.two-para{
+
+  display: flex;
+}
+
+.mrgn-below{
+
+  margin-bottom: 50px;
 }
 
 
