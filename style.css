@@ -448,6 +448,36 @@ background: linear-gradient(to bottom, rgb(37, 37, 190) 20%, white 40%);
 .two-btns{
   
   display: flex;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
 }
 
+
+.youtop{
+padding: 60x;
+  
+  height: fit-content;
+}
+
+.youtube{
+  
+display: flex;
+height: 30px;
+}
+
+.by{
+display: flex;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+
+.house-icon{
+  margin-left: 30px;
+  padding-bottom: 180px;
+margin-bottom: 200px;
+  display: flex;
+}
+
+.xyz{
+padding: 1px;
+}
