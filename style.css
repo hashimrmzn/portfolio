@@ -500,16 +500,16 @@ padding: 1px;
 .slider-container {
   margin-left: 100px;
   width: 10px; 
-  height: 450px; 
-  background-color: #f0f0f0;
+  height: 400px; 
+  background-color: #a79f9f;
   position: relative;
   overflow: hidden;
 }
 
 .slider {
   width: 100%;
-  height: 50px; 
-  background-color: #464747;
+  height: 40px; 
+  background-color: #414242;
   position: absolute;
   top: 0;
   left: 0;
@@ -526,5 +526,25 @@ padding: 1px;
   margin-left: 40px;
   background-color: #d1d0d0;
   width: 800px;
-  height: 100px;
+  height: 90px;
+}
+
+
+/* now we start our last part of project*/
+
+.Reach-out{
+ display: flex;
+ margin-top: 100px;
+}
+
+.mini-reach{
+
+  margin-left: 40px;
+  width: 900px;
+}
+
+
+.my-img{
+
+  margin-top: 50px;
 }
