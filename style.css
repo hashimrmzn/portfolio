@@ -455,7 +455,7 @@ background: linear-gradient(to bottom, rgb(37, 37, 190) 20%, white 40%);
 .youtop{
 padding: 60x;
   
-  height: fit-content;
+  height: 500px;
 }
 
 .youtube{
@@ -473,11 +473,58 @@ display: flex;
 
 .house-icon{
   margin-left: 30px;
-  padding-bottom: 180px;
-margin-bottom: 200px;
+  
+
   display: flex;
 }
 
 .xyz{
 padding: 1px;
+}
+
+
+.cone-icon{
+
+  margin-left: 40px;
+  width: 700px;
+}
+
+.main{
+
+  display: flex;
+}
+
+
+
+
+.slider-container {
+  margin-left: 100px;
+  width: 10px; 
+  height: 450px; 
+  background-color: #f0f0f0;
+  position: relative;
+  overflow: hidden;
+}
+
+.slider {
+  width: 100%;
+  height: 50px; 
+  background-color: #464747;
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: top 0.3s ease-in-out; 
+}
+
+.slider:hover {
+  top: 200px; 
+}
+
+
+.fill{
+  margin-top: 80px;
+  margin-left: 40px;
+  background-color: #d1d0d0;
+  width: 800px;
+  height: 100px;
 }
